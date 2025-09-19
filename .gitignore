@@ -2,6 +2,7 @@
 *
 
 # Except
+!hello
 !hello\.s
 !hello\.ld
 !Makefile
